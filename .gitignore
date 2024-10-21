@@ -1,9 +1,9 @@
-# Python cache
+# Ignore Python compiled files
 __pycache__/
 *.pyc
 
-# Environment variables
-.env
+# Ignore virtual environment
+venv/
 
-# IDE files
-.vscode/
+# Ignore any other system files
+.DS_Store
